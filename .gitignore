@@ -1,0 +1,9 @@
+src_other/*
+txt_files/*
+results/*
+pdf/*
+report/*
+data/*
+.ipynb_checkpoints/*
+imgs_affine/*
+old_ipynb/*
